@@ -20,4 +20,8 @@
 > [!note]
 > 点击下方链接一键导入模块
 
+* [谷歌增强](https://lowertop.github.io/Shadowrocket-First/redirect.html?url=shadowrocket://install?module=https://raw.githubusercontent.com/mist-whisper/Shadowrocket/master/Module/Google_Enhance.module)
+* [京东去广告](https://lowertop.github.io/Shadowrocket-First/redirect.html?url=shadowrocket://install?module=https://raw.githubusercontent.com/mist-whisper/Shadowrocket/master/Module/JD_remove_ads.module)
 * [小红书去广告](https://lowertop.github.io/Shadowrocket-First/redirect.html?url=shadowrocket://install?module=https://raw.githubusercontent.com/mist-whisper/Shadowrocket/master/Module/REDnote_remove_ads.module)
+* [Script-Hub](https://lowertop.github.io/Shadowrocket-First/redirect.html?url=shadowrocket://install?module=https://raw.githubusercontent.com/mist-whisper/Shadowrocket/refs/heads/master/Module/Script-Hub.module)
+* [Youtube去广告](https://lowertop.github.io/Shadowrocket-First/redirect.html?url=shadowrocket://install?module=https://raw.githubusercontent.com/mist-whisper/Shadowrocket/master/Module/YouTube_remove_ads.module)
